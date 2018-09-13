@@ -5,11 +5,11 @@ BambooSwitchUserBundle
 
 ## Summary
 
-User switching for eZ Publish 5.4 / eZ Platform 6.x.
+User switching for eZ Publish 5.4, eZ Platform 1.x eZ Platform 2.x.
 
 ## Copyright
 
-Copyright (C) 2016 [Bamboo Data Ltd](http://www.bamboo-data.co.uk)
+Copyright (C) 2016-2018 [Bamboo Data Ltd](https://www.bamboo-data.co.uk)
 
 ## License
 

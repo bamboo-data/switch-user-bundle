@@ -1,7 +1,7 @@
 switch_user_by_id:
     path: /switch-user/id/{id}
     requirements:
-        id: "\d+"
+        id: \d+
     defaults:
         _controller: BambooSwitchUserBundle:SwitchUser:setById
 

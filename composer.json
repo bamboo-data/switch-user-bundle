@@ -1,7 +1,7 @@
 {
     "name": "bamboo/switch-user-bundle",
-    "description": "Switch user bundle for eZ Publish 5, eZ Platform 6",
-    "license": "GPL-2.0",
+    "description": "Switch user bundle for eZ Publish 5, eZ Platform 1, eZ Platform 2",
+    "license": "GPL-2.0-or-later",
     "authors": [
         {
             "name": "Bamboo Data Ltd",
